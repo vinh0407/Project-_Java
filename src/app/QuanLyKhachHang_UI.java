@@ -29,7 +29,7 @@ public class QuanLyKhachHang_UI extends JFrame implements ActionListener, MouseL
     ImageIcon searchIcon = new ImageIcon("data/images/search_16.png");
     ImageIcon checkIcon = new ImageIcon("data/images/check2_16.png");
     ImageIcon errorIcon = new ImageIcon("data/images/cancel_16.png");
-
+ggit branch -M main
     ArrayList<KhachHang> dsKH;
 
     public QuanLyKhachHang_UI() {
